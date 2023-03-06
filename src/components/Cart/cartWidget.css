@@ -1,0 +1,10 @@
+.nav-der{
+    display: flex;
+    flex-direction: row;
+    align-self: flex-end;
+}
+.carritoDeCompras{
+    height: 30px;
+    width: 30px;
+    margin-right: 3px;
+}

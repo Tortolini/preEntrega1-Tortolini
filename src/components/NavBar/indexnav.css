@@ -1,0 +1,9 @@
+
+.div-nav{
+display: flex;
+justify-content: space-between;
+align-items: center;
+justify-items: center;
+align-content: space-around;
+}
+
